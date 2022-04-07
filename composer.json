@@ -1,0 +1,13 @@
+{
+    "name": "wilder/package-composer",
+    "description": "Composer package management",
+    "authors": [
+        {
+            "name": "AxelDrouillard",
+            "email": "axel.drouillard@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
